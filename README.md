@@ -25,7 +25,7 @@ A fast, multi-threaded Python script designed to check the validity of WordPress
 Make sure you have Python 3.x installed on your system. You will also need to install the required Python libraries.
 
 ```bash
-pip install requests colorama tqdm urllib3
+pip install requests colorama tqdm urllib3 --break-system-packages
 ```
 
 ## 📝 Input Format
